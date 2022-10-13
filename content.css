@@ -1,0 +1,64 @@
+.page 
+{
+    width: 60%;
+    height: auto;
+    border-color: black;
+    background-color: rgb(211, 208, 203);
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 30px;
+}
+  
+  #article_title 
+  {
+    margin-bottom: 60px;
+    font-weight: 900;
+    font-family: Anton, bold;
+    font-size: 60px;
+    letter-spacing: 15px;
+    margin-top: -15px;
+    color: rgb(70, 18, 32);
+    margin-left: 30px;
+  }
+  
+  #intro 
+  {
+    line-height: 2.5;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-family: Oswald, bold;
+    font-size: 35px;
+    color: rgb(140, 47, 57);
+    margin-left: 30px;
+  }
+  
+  .question
+  {
+    font-weight: 900;
+    font-family: Raleway, bolder;
+    font-size: 25px;
+    color: rgb(76, 87, 96);
+    margin-left: 30px;
+  }
+  
+  .answer
+  {
+    font-weight: 900;
+    font-family: Raleway, bolder;
+    font-size: 20px;
+    color: rgb(76, 87, 96);
+    margin-left: 30px;
+  }
+  
+  #block_quote 
+  {
+    font-weight: 900;
+    font-family: Oswald, bold;
+    font-size: 35px;
+    color: rgb(140, 47, 57);
+    margin-left: 30px;
+    border-left: solid black 1px;
+    padding: 15px;
+    margin-left: 200px;
+    width: 45%;
+  }
